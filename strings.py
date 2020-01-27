@@ -1,6 +1,5 @@
 '''
-Name: Sriharsha Madhira
-Collab: Siddhant Bhardwaj
+Name: Siddhant Bhardwaj
 '''
 
 def US_to_EU(date):
